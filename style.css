@@ -1,0 +1,49 @@
+* {
+  margin: 3rem;
+  padding: 0;
+}
+
+body {
+  background: #f4f4f4;
+}
+
+h1 {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
+
+h1,
+h2 {
+  font-family: "Poppins", sans-serif;
+  color: #f4f4f4;
+}
+
+button {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+#quote-display {
+  font-family: "Kiwi Maru", serif;
+  font-size: 1.5rem;
+  margin: 0.5rem;
+  padding: 1rem;
+  color: #f4f4f4;
+}
+
+.bg-main {
+  background: #3b77af;
+  border-radius: 1rem;
+  color: #f4f4f4;
+}
+
+.quote-display {
+  background: #1d3e5c;
+  border-radius: 0.5rem;
+}
